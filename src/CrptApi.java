@@ -40,7 +40,7 @@ class CrptApi {
         }
 
         requestTimes.addLast(now);
-        Thread.sleep(400);
+
 
         // Вызываем метод клиента для сериализации данных и взаимодействия с API
         introductionCirculation(new Product(), key);
