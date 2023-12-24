@@ -16,6 +16,7 @@ import java.util.Deque;
 //четвертое на ветке майн
 // седьмое на веткее майн
 // девятое на ветке майн
+// изменения от разрабов
 class CrptApi {
     private String key = "ac2b8ce6-68e0-4d8c-88a7-fdfcab8b5e5e"; // Ключ авторизации.
     private Gson gson = new Gson();
